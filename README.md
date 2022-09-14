@@ -2,7 +2,7 @@
 Out of both buttons user must choose the button on which bigger number is displayed.
 ## *Harsh Rajotiya*
 
-Bigger Number App (aka "Cal Admission Test") prompts the user to select which of the two numbers presented is larger. The background color is updated depending on if the correct answer is chosen. New numbers are randomly selected after a user selection.
+Bigger Number Game (aka "Cal Admission Test") prompts the user to select which of the two numbers presented is larger. The background color is updated depending on if the correct answer is chosen. New numbers are randomly selected after a user selection.
 
 Time spent: **4** hours spent in total
 
