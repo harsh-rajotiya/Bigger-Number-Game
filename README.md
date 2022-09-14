@@ -10,14 +10,14 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can select one of two button options shown
-* [ ] The user sees the background color change based on the number (button) selected
-* [ ] The user sees new distinct numbers displayed on the buttons after either button is tapped
+* [x] User can select one of two button options shown
+* [x] The user sees the background color change based on the number (button) selected
+* [x] The user sees new distinct numbers displayed on the buttons after either button is tapped
 
 
 The following **extensions** are implemented:
 
-* [ ] Custom colors selected
+* [x] Custom colors selected
 
 ## Video Walkthrough
 
